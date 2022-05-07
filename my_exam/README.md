@@ -1,6 +1,7 @@
 # my_exam
 
 A new Flutter project.
+Quiz App using GetX [MVC pattern]
 
 ## Getting Started
 
